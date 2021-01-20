@@ -1,0 +1,18 @@
+{
+  "name": "dckap-tamil-stt",
+  "displayName": "dckap-tamil-stt",
+  "expo": {
+    "name": "dckap-tamil-stt",
+    "appKey": "dckap-tamil-stt",
+    "slug": "dckap-tamil-stt",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "splash": {
+    "image": "./assets/dckap_splash.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#ffffff"
+  }
+}

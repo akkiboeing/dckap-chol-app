@@ -1,0 +1,5 @@
+node_modules
+android/.gradle
+android/app/build/generated/
+android/app/build/intermediates/
+android/app/build/reports/
